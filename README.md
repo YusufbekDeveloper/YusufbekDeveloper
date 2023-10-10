@@ -15,9 +15,12 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="left">
 
-<h3 align="left">Connect with me:    [+998 99 043 15 30]  </h3>
+
+- 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
+
 - 📫 How to reach me   **yusufbekqobilov07@gmail.com**
 
+<h3 align="left">Connect with me:    [+998 99 043 15 30]  </h3>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
